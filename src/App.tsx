@@ -19,7 +19,7 @@ export default function App() {
     }
 
     const handleTimeUpdate = () => {
-      if (video.currentTime >= 5) {
+      if (video.currentTime >= 2) {
         video.currentTime = 0;
         void video.play();
       }
