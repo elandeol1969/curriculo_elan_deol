@@ -110,7 +110,7 @@ export default function App() {
               <div className="absolute inset-0 bg-primary/20 rounded-[2rem] blur-2xl group-hover:bg-accent/20 transition-colors duration-500"></div>
               <div className="relative w-48 h-48 rounded-[2rem] overflow-hidden neon-border">
                 <img 
-                  src="\Matrix3.png" 
+                  src="/Matrix3.png" 
                   alt="Elias Antônio de Oliveira Profile" 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   referrerPolicy="no-referrer"
