@@ -86,7 +86,7 @@ export default function App() {
           <div className="absolute inset-0 -z-10 overflow-hidden rounded-[2rem]">
             <video
               ref={heroVideoRef}
-              src="/video_small.mp4"
+              src="/video_small2.mp4"
               autoPlay
               muted
               playsInline
@@ -425,7 +425,7 @@ export default function App() {
             </div>
           </a>
           <div className="w-px h-6 bg-white/10"></div>
-          <a href="mailto:elias.antoniol@gmail.com" className="flex flex-col items-center gap-1 group">
+          <a href="mailto:elias.antoniol@gmail.com" className="fgit push -u origin mainlex flex-col items-center gap-1 group">
             <div className="p-2 rounded-xl group-hover:bg-primary/20 transition-all group-hover:-translate-y-1">
               <Mail className="w-5 h-5 text-slate-400 group-hover:text-primary transition-colors" />
             </div>
