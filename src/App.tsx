@@ -19,7 +19,7 @@ export default function App() {
     }
 
     const handleTimeUpdate = () => {
-      if (video.currentTime >= 2) {
+      if (video.currentTime >= 5) {
         video.currentTime = 0;
         void video.play();
       }
@@ -86,7 +86,7 @@ export default function App() {
           <div className="absolute inset-0 -z-10 overflow-hidden rounded-[2rem]">
             <video
               ref={heroVideoRef}
-              src="/video_small2.mp4"
+              src="/video_small.mp4"
               autoPlay
               muted
               playsInline
