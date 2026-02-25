@@ -38,7 +38,7 @@ export default function App() {
       <nav className="sticky top-0 z-50 glass px-6 py-4">
         <div className="max-w-screen-md mx-auto flex justify-between items-center">
           <div className="text-xl font-extrabold tracking-tighter italic">
-            <span className="text-primary">Curriculum</span><span className="text-accent"> Vitae</span><span className="text-white"></span>
+            <span className="text-primary">Elias</span><span className="text-accent"> Oliveira</span><span className="text-white"></span>
           </div>
           
           {/* Desktop Menu */}
@@ -103,7 +103,7 @@ export default function App() {
           >
             <div className="section-tag mb-6">
               <Sparkles className="w-3.5 h-3.5" />
-              Atualizado em 2026
+              Perfil em 2026
             </div>
             
             <div className="relative mb-10 group">
@@ -120,7 +120,7 @@ export default function App() {
 
             <h2 className="text-primary font-bold tracking-widest uppercase text-xs mb-3">Analista Consultor de TI</h2>
             <h1 className="text-2xl md:text-3xl font-bold mb-4 leading-tight tracking-tight">
-              <span className="block text-white">Elias</span>
+              <span className="block text-white">Curriculum</span>
             </h1>
             <p className="text-slate-400 font-extrabold text-lg mb-8 max-w-lg">
               (Elias Antônio de Oliveira)
